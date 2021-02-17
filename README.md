@@ -10,3 +10,5 @@ o QR Code volta ao ponto inicial normalmente, sem nenhum direcionamento, e depoi
 
 ## Como executar o projeto
 1° - Baixe os arquivos zipados | 2° - Extraia os arquivos | 3° - Execute o index.html
+
+![QrCode](https://github.com/caioreisalvarenga/Projeto-Gerador-De-QR-Code-Com-VueJS/blob/master/qrcode.jpg)
