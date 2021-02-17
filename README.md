@@ -2,7 +2,7 @@
   Esse projeto gera um Qr Code dinamicamente quando eu coloco um link no campo de texto, sendo que quando eu modifico o link, é gerado outro Qr Code automaticamente.
 
 ## Tencologias Usadas
-  - Front End: HTML5, CSS3, JavaScript puro.
+  - Front End: HTML5, CSS3, JavaScript e Vue.JS.
 
 ## Funcionamento
   Ao entrar no sistema gerador de QR Code, o usuário coloca algum link e automaticamente é gerado um QR Code dinamicamente para aquele link em questão, e ao apagar o link
